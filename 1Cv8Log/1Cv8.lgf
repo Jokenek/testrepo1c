@@ -1,5 +1,5 @@
 ﻿1CV8LOG(ver 2.0)
-885d0bf7-d348-4f12-8420-793103729534
+c4419b61-f270-4ef7-9f09-5dee4193c99e
 
 {1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
 {2,"HOME-PC",1},
@@ -7,4 +7,6 @@
 {4,"_$Session$_.Authentication",1},
 {13,1,1},
 {4,"_$Session$_.Start",2},
-{4,"_$Session$_.Finish",3}
+{4,"_$Session$_.Finish",3},
+{4,"_$InfoBase$_.RestoreStart",4},
+{4,"_$InfoBase$_.RestoreFinish",5}
